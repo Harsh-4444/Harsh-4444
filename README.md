@@ -1,4 +1,4 @@
-# First Repository..
+# About
 
 - 👋 Hi, I’m @Harsh-4444 (Harshavardhan Shetty)
 - 👀 I’m interested in learning how to code...
